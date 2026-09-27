@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+music_player.exe
+build/
+dist/
+*.spec
